@@ -1,7 +1,7 @@
 async function getChannel(channelName){
-    const rocketChatURL="chat.higheredlab.com"
-    const apiToken="xvvyQ3vR4os5d_NELytNMTVDeSFAqpIR9ur8OKP-HoH"
-    const apiUserID="CKQjkmNZK48LwTWbr"
+    const rocketChatURL=rocketChatURL
+    const apiToken=apiToken
+    const apiUserID=apiUserID
     const headers= {
       'X-Auth-Token': apiToken,
       'X-User-Id': apiUserID
